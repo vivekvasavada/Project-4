@@ -5,5 +5,18 @@
 }
 
 body{
-
+font-family:'Open Sans', sans-serif; 
 }
+
+#header
+{
+  image-orientation:from-image;  
+}
+.heading2 
+{
+    text-align:center;
+    font-family:'Open Sans', sans-serif;
+    font-size: 48px;
+    background-color: #5C5CFF;
+}
+    }
