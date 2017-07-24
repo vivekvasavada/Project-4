@@ -19,4 +19,10 @@ font-family:'Open Sans', sans-serif;
     font-size: 48px;
     background-color: #5C5CFF;
 }
-    }
+ 
+
+#media.heading
+{
+     font-family:'Open Sans', sans-serif;
+    font-size: 12px;
+}
