@@ -38,4 +38,9 @@ text-align:center;
     z-index: 100;
     color:white;
     font-size:24px; 
-}    
+}  
+.heading4 {
+  font-family:'Open Sans', sans-serif;
+    font-size: 24px;
+    background-color: #5C5CFF;
+}  
